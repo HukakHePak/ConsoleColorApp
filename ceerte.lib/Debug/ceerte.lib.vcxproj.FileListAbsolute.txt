@@ -1,0 +1,5 @@
+C:\Users\Влаdick\Desktop\Учебный хлам\Controlnaya\Debug\ceerte.lib.pdb
+C:\Users\Влаdick\Desktop\Учебный хлам\Controlnaya\ceerte.lib\Debug\ceerte.lib.pdb
+C:\Users\Влаdick\Desktop\Учебный хлам\mapSymbolCounter\Debug\ceerte.lib.pdb
+C:\Users\Влаdick\Desktop\Учебный хлам\studentsRating\Debug\ceerte.lib.pdb
+C:\Users\Влаdick\Desktop\Учебный хлам\passFind\Debug\ceerte.lib.pdb

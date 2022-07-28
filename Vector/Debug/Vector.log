@@ -1,0 +1,6 @@
+﻿  Vector.cpp
+C:\Users\Влаdick\Desktop\Учебный хлам\Controlnaya\Vector\Vector.cpp(227,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Влаdick\Desktop\Учебный хлам\Controlnaya\Vector\Vector.cpp(253,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Влаdick\Desktop\Учебный хлам\Controlnaya\Vector\Vector.cpp(411,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Влаdick\Desktop\Учебный хлам\Controlnaya\Vector\Vector.cpp(376,12): warning C4101: findZone: неиспользованная локальная переменная
+  Vector.vcxproj -> C:\Users\Влаdick\Desktop\Учебный хлам\Controlnaya\Debug\Vector.exe
